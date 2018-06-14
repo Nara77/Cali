@@ -1,0 +1,8 @@
+{
+  "name": "Cali",
+  "app_id": "4c4d209d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
